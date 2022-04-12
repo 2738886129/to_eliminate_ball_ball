@@ -1,7 +1,10 @@
 ﻿  消除球球.cpp
 D:\Installed Software\VisualStudio\VS2022_IDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-E:\program\c++\vs\消除球球\消除球球.cpp(117,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
-E:\program\c++\vs\消除球球\消除球球.cpp(174,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-E:\program\c++\vs\消除球球\消除球球.cpp(175,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-E:\program\c++\vs\消除球球\消除球球.cpp(190,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(139,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(157,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(158,35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(209,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(286,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(287,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\program\c++\vs\消除球球\消除球球.cpp(303,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   消除球球.vcxproj -> E:\program\c++\vs\消除球球\x64\Debug\消除球球.exe
